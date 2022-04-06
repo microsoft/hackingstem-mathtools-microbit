@@ -2,9 +2,9 @@
 Micropython code for Microsoft Hacking STEM Using Pythagorean theorem to Measure Topography Lesson Plan adapted for micro:bit
 
 # Getting Started
-1. Download lesson assets at https://www.microsoft.com/en-us/education/education-workshop/measuring-tools.aspx
+1. Download lesson assets at https://education.microsoft.com/lesson/2c32c4fa
 1. Assemble encoder(s)
-1. For compilation it's recommended you set up your enviroment using either
+1. For compilation it's recommended you set up your environment using either
   1. Offline instructions:
 	  * https://lancaster-university.github.io/microbit-docs/#
 	  * https://github.com/lancaster-university/microbit-samples
